@@ -1,1 +1,1 @@
-Clone da pagina inicial do netflix
+Clone da pagina inicial do netflixx
